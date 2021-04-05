@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alef</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_title">Alef</string>
+    <string name="update">Обновление</string>
+</resources>
